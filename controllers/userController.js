@@ -28,5 +28,31 @@ module.exports = {
             return res.status(500).json(err);
         }
     },
+    // Create a user
+    async createUser(req, res) {
+        try {
+            const user = await User.create(req.body);
+            res.json(user);
+        } catch (err) {
+            res.status(500).json(err);
+        }
+    },
+    // Update user by ID
+
+
+
+    // Delete user by ID
+
+
+
+    // Add friend to user friend list
+
+
+    
+    // Remove friend from user friend list
+
 
 };
+
+
+module.exports = userController;
