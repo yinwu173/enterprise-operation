@@ -37,4 +37,4 @@
 
 * ![Screenshot](<Screenshot 2024-11-06 at 8.36.53 PM.png>)
 
-* Walkthrough Video Link: 
+* Walkthrough Video Link: https://drive.google.com/file/d/10AaQcAwALqW2Zg9pVHt8Ka2sT2zae7Va/view?usp=sharing
