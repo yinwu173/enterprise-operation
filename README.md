@@ -35,6 +35,6 @@
 
 ### Link
 
-![Screenshot](<Screenshot 2024-11-06 at 8.36.53 PM.png>)
+* ![Screenshot](<Screenshot 2024-11-06 at 8.36.53 PM.png>)
 
 * Walkthrough Video Link: 
